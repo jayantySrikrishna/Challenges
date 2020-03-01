@@ -1,5 +1,7 @@
 # Challenges
 
+# Last3digits
+
 Per is obsessed with factorials. He likes to calculate them, estimate them, read about them, draw them, dream about them and fight about them. He even has the value of 12!=47900160012!=479001600 tattooed on his back.
 
 He noticed a long time ago that factorials have many trailing zeroes and also wrote a program to calculate the number of trailing zeroes. For example 12!12! ends with 600, so it has 2 trailing zeroes. Now he wants to make one step further, look at the 3 digits right before the trailing zeroes. In the case of 12!12!, the last 3 digits before the trailing zeroes are 016016.
